@@ -15,9 +15,13 @@ I have created a basic web app with Flask with a post API which is in the Flower
 ## day 16
 Step 3: Create a mobile app 
 create a simple app that loads an image and predict the flower name
-- create the app
-- convert the pytorch model to Caffe2 or find a solution for loding a model into Android
-- also possible: implement PySyft
+- create the app in kotlin
 - load the model in the mobile app to show the prediction
+    - now I need to convert the pytorch model for Android, after some research these are my options:
+    - convert the pytorch model to Caffe2 and load the model in the app
+    - convert the image to tensor and send it to the API
+    - implement PySyft
+    - try Pytorch Lite but it looks as the dev it is not finished
+
 
 
