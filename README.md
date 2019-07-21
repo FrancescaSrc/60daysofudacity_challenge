@@ -25,3 +25,9 @@ create a simple app that loads an image and predict the flower name
 
 
 
+## day 18
+Step 3a: convert Pytorch model to Onnx and Caffe2
+The converting to onnx was easy, the Caffe2 part was a bit more work, the dependencies were not installed.
+Error: No module name past
+was resolved by installing future package in conda (dit not work in pip)
+See result in Convert Pytorch model to ONNIX notebook!
