@@ -4,6 +4,14 @@
 # KeyStone Project overview
 Basic idea: implement the federated learning and differential privacy with a real web and mobile app, using a trained model in Pytorch.
 
+## day 7
+- implemented a post API with Flask for the model of house price prediction in Keras from the book Mobile Artificial Intelligence Project. 
+I have also implemented the mobile app but could not get to work it properly in Kotlin code. 
+
+## day 8
+- finished to code my first mobile app with flask api and keras model!
+See Predict real estate prices with Keras
+
 ## day 11-12
 Step 1: Train a Pytorch model with flower dataset. 
 I have trained two models during the Pytorch Challenge and the Bossom Challenge during the Private AI course
