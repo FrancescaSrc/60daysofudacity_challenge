@@ -49,3 +49,7 @@ Step 3b, option 1: converting pytorch to .pb for Android was not difficult but t
 Tried a lot of tutorials, nothing worked really
 New solution: convert .onnix to Tensorflow, it seems like an easier option.
 The conversion seems to work.
+
+##day 21
+Step 3b: found out how to run the bash scripts in Androi, tried the speed_benchmark.cc but still it is not clear how do I get a prediction out of this!
+Implemented some code from the tutorial without successs.
